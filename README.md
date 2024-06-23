@@ -1,7 +1,7 @@
 # LearnGroovy
 LearnGroovy
 
-## I'd be happy to help you get started with Groovy! 
+## I am very happy to help you get started with Groovy! 
 
 ##### Groovy is a powerful, optionally typed, and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity. 
 
