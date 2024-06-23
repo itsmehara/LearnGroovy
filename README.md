@@ -7,6 +7,11 @@ LearnGroovy
 
 ##### It can be used both as a scripting language and as a language for building applications.
 
+
+
+
+
+
 ### Detailed Topics in Groovy
 
 1. **Introduction to Groovy**
