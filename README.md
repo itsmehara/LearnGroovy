@@ -14,18 +14,18 @@ LearnGroovy
 
 ### Detailed Topics in Groovy
 
-1. **Introduction to Groovy**
+1. **[Introduction to Groovy**](01.IntroductionToGroovy.md)**
    - What is Groovy?
    - History and evolution
    - Comparing Groovy with Python and Java
    - Installation and setup
 
-2. **Basic Syntax**
+2. **[Basic Syntax](02.BasicSyntax.md)**
    - Variables and types
    - Basic operators
    - Control structures (if, else, switch, for, while, etc.)
 
-3. **Data Types and Collections**
+3. **[Data Types and Collections](03.DataTypesCollections.md)**
    - Strings and GStrings
    - Numbers
    - Booleans
@@ -34,13 +34,13 @@ LearnGroovy
    - Ranges
    - Arrays
 
-4. **Closures**
+4. **[Closures](04.Closures.md)**
    - Defining closures
    - Passing parameters to closures
    - Returning values from closures
    - Closure delegation strategies
 
-5. **Object-Oriented Programming with Groovy**
+5. **[Object-Oriented Programming with Groovy](05.OOPGroovy.md)**
    - Classes and objects
    - Properties and fields
    - Methods
@@ -48,41 +48,41 @@ LearnGroovy
    - Polymorphism
    - Abstract classes and interfaces
 
-6. **Advanced Groovy Features**
+6. **[Advanced Groovy Features](06.AdvancedFeatures.md)**
    - Meta-programming
    - AST (Abstract Syntax Tree) transformations
    - Groovy categories
    - Traits
 
-7. **Groovy Scripting**
+7. **[Groovy Scripting](07.Scripting.md)**
    - Using Groovy as a scripting language
    - Running Groovy scripts
    - Integrating Groovy with other scripting languages
 
-8. **Working with Files and I/O**
+8. **[Working with Files and I/O](08.WorkingWithFiles.md)**
    - Reading and writing files
    - Working with directories
    - File system operations
    - Streams
 
-9. **Exception Handling**
+9. **[Exception Handling](09.ExceptionsGroovy.md)**
    - Try-catch blocks
    - Throwing exceptions
    - Custom exceptions
    - Using finally block
 
-10. **Functional Programming with Groovy**
+10. **[Functional Programming with Groovy](10.FunctionalProgramming.md)**
     - Functional programming concepts
     - Higher-order functions
     - Closures as first-class citizens
     - Using functional programming with collections
 
-11. **Groovy and XML/JSON Processing**
+11. **[Groovy and XML/JSON Processing](11.GroovyXMLJson.md)**
     - Working with XML (XmlSlurper, XmlParser)
     - Working with JSON (JsonSlurper, JsonOutput)
     - Data binding and transformations
 
-12. **Groovy and Databases**
+12. **[Groovy and Databases](12.GroovyAndDB.md)**
     - Database connectivity (GORM, SQL, etc.)
     - CRUD operations
     - Transactions and batch processing
