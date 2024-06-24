@@ -14,7 +14,7 @@ LearnGroovy
 
 ### Detailed Topics in Groovy
 
-1. **[Introduction to Groovy**](01.IntroductionToGroovy.md)**
+1. **[Introduction to Groovy](01.IntroductionToGroovy.md)**
    - What is Groovy?
    - History and evolution
    - Comparing Groovy with Python and Java
@@ -87,44 +87,44 @@ LearnGroovy
     - CRUD operations
     - Transactions and batch processing
 
-13. **Groovy and RESTful Services**
+13. **[Groovy and RESTful Services](13.GroovyRESTful.md)**
     - Consuming RESTful services
     - Building RESTful services with Groovy
     - JSON and XML serialization/deserialization
 
-14. **Testing with Groovy**
+14. **[Testing with Groovy](14.TestingwithGroovy.md)**
     - Unit testing with Groovy
     - Spock framework
     - Mocking and stubbing
 
-15. **Groovy and Grails**
+15. **[Groovy and Grails](15.GroovyandGrails.md)**
     - Introduction to Grails
     - Building web applications with Grails
     - Grails project structure
     - Grails ORM with GORM
 
-16. **Build Tools and Groovy**
+16. **[Build Tools and Groovy](16.GroovyBuildTools.md)**
     - Using Groovy with Gradle
     - Groovy scripts for automation
     - Integrating Groovy with Maven
 
-17. **Integrating Groovy with Java**
+17. **[Integrating Groovy with Java / Python](17.IntegratingPython.md)**
     - Calling Groovy from Java
     - Calling Java from Groovy
     - Mixed-language projects
     - Using Groovy in existing Java projects
 
-18. **Performance Optimization**
+18. **[Performance Optimization](18.PerformanceOptimization.md)**
     - Profiling Groovy applications
     - Static compilation and type checking
     - Optimizing Groovy code
 
-19. **Community and Ecosystem**
+19. **[Community and Ecosystem](19.CommunityEcosystem.md)**
     - Groovy libraries and frameworks
     - Groovy in the enterprise
     - Contributing to Groovy
 
-20. **Case Studies and Real-world Applications**
+20. **[Case Studies and Real-world Applications](20.CaseStudiesGroovy.md)**
     - Real-world examples of Groovy applications
     - Best practices and design patterns
     - Troubleshooting and debugging
