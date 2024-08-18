@@ -10,8 +10,6 @@ LearnGroovy
 
 
 
-
-
 ### Detailed Topics in Groovy
 
 1. **[Introduction to Groovy](01.IntroductionToGroovy.md)**
